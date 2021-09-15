@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 making a bigger change 
+=======
+making a change to file
+>>>>>>> new-branch
